@@ -21,6 +21,8 @@ b) Write 21 different prompt templates in class slides practical examples in col
 
 and the below patterns from https://arxiv.org/pdf/2302.11382.pdf
 
+Colab Link : https://colab.research.google.com/drive/15-vK3mc6o9Glh-zficb5pabp_a7uO0pD?usp=sharing
+
 
 c)  Pick 10 diverse fields (like hr, teaching, finance etc..,) and write three very useful diverse prompts for each field with test cases.   
 
