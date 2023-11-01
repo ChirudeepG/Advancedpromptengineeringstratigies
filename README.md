@@ -26,7 +26,8 @@ Colab Link : https://colab.research.google.com/drive/15-vK3mc6o9Glh-zficb5pabp_a
 
 c)  Pick 10 diverse fields (like hr, teaching, finance etc..,) and write three very useful diverse prompts for each field with test cases.   
 
- 
+Colab Link : https://colab.research.google.com/drive/1rH4bjoNkgIQp79ip3UJSkfR_zsJDIPIs?usp=sharing
+
 
 Follow best practices in https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-apiLinks to an external site.
 
@@ -34,10 +35,14 @@ Follow best practices in https://help.openai.com/en/articles/6654000-best-practi
 
 d) Implement the https://platform.openai.com/examplesLinks to an external site. for palm 2 api. in colab
 
- 
+Colab Link :
+
 
 e) write function calls api example colab usecase of openai
 
+Colab Link :
  
 
 f) write system prompt example usecase of openai
+
+Colab Link :
