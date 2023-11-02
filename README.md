@@ -35,7 +35,7 @@ Follow best practices in https://help.openai.com/en/articles/6654000-best-practi
 
 d) Implement the https://platform.openai.com/examplesLinks to an external site. for palm 2 api. in colab
 
-Colab Link :
+Colab Link : 
 
 
 e) write function calls api example colab usecase of openai
@@ -45,4 +45,4 @@ Colab Link : https://colab.research.google.com/drive/1SVz07HKwL8y0Q1RnFP4RoRhmbH
 
 f) write system prompt example usecase of openai
 
-Colab Link :
+Colab Link : https://colab.research.google.com/drive/1Rw2KHU3Ho2GnwpvVGhkCG_cTmv_g-uX2?usp=sharing
