@@ -40,7 +40,7 @@ Colab Link :
 
 e) write function calls api example colab usecase of openai
 
-Colab Link :
+Colab Link : https://colab.research.google.com/drive/1SVz07HKwL8y0Q1RnFP4RoRhmbHxP-Y-T?usp=sharing
  
 
 f) write system prompt example usecase of openai
